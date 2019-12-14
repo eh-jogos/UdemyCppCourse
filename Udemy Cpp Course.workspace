@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Udemy Cpp Course" Database="" Version="10.0.0">
   <VirtualDirectory Name="Section4">
-    <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="Yes"/>
+    <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section5">
+    <Project Name="BasicIO" Path="BasicIO/BasicIO.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -9,12 +12,14 @@
       <Project Name="Sample" ConfigName="Debug"/>
       <Project Name="Project1" ConfigName="Debug"/>
       <Project Name="FirstProgram" ConfigName="Debug"/>
+      <Project Name="BasicIO" ConfigName="Debug"/>
     </WorkspaceConfiguration>
-    <WorkspaceConfiguration Name="Release" Selected="no">
+    <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="Sample" ConfigName="Release"/>
       <Project Name="Project1" ConfigName="Release"/>
       <Project Name="FirstProgram" ConfigName="Release"/>
+      <Project Name="BasicIO" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
