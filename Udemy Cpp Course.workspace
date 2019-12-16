@@ -4,7 +4,11 @@
     <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
   </VirtualDirectory>
   <VirtualDirectory Name="Section5">
-    <Project Name="BasicIO" Path="BasicIO/BasicIO.project" Active="Yes"/>
+    <Project Name="BasicIO" Path="BasicIO/BasicIO.project" Active="No"/>
+    <Project Name="Exercise1" Path="Exercise1/Exercise1.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section6">
+    <Project Name="ExerciseDraftsS06" Path="ExerciseDraftsS06/ExerciseDraftsS06.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -13,6 +17,8 @@
       <Project Name="Project1" ConfigName="Debug"/>
       <Project Name="FirstProgram" ConfigName="Debug"/>
       <Project Name="BasicIO" ConfigName="Debug"/>
+      <Project Name="ExerciseDrafts" ConfigName="Debug"/>
+      <Project Name="ExerciseDraftsS06" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -20,6 +26,8 @@
       <Project Name="Project1" ConfigName="Release"/>
       <Project Name="FirstProgram" ConfigName="Release"/>
       <Project Name="BasicIO" ConfigName="Release"/>
+      <Project Name="ExerciseDrafts" ConfigName="Release"/>
+      <Project Name="ExerciseDraftsS06" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
