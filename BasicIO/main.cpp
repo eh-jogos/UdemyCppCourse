@@ -37,5 +37,14 @@ int main(){
 //	cin >> num3;
 //	cout << "Your entered: " << num3 << endl;
 
+	cout << "Enter an integer:";
+	cin >> num1;
 	
+	cout << "Enter a double:";
+	cin >> num3;
+	
+	cout << "The integer is: " << num1 << endl;
+	cout << "The double is: " << num3 << endl;
+	
+	return 0;
 }
