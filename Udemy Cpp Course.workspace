@@ -8,7 +8,9 @@
     <Project Name="Exercise1" Path="Exercise1/Exercise1.project" Active="No"/>
   </VirtualDirectory>
   <VirtualDirectory Name="Section6">
-    <Project Name="ExerciseDraftsS06" Path="ExerciseDraftsS06/ExerciseDraftsS06.project" Active="Yes"/>
+    <Project Name="ExerciseDraftsS06" Path="ExerciseDraftsS06/ExerciseDraftsS06.project" Active="No"/>
+    <Project Name="PrimitiveTypes" Path="PrimitiveTypes/PrimitiveTypes.project" Active="No"/>
+    <Project Name="SizeOfOperator" Path="SizeOfOperator/SizeOfOperator.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -19,6 +21,8 @@
       <Project Name="BasicIO" ConfigName="Debug"/>
       <Project Name="ExerciseDrafts" ConfigName="Debug"/>
       <Project Name="ExerciseDraftsS06" ConfigName="Debug"/>
+      <Project Name="PrimitiveTypes" ConfigName="Debug"/>
+      <Project Name="SizeOfOperator" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -28,6 +32,8 @@
       <Project Name="BasicIO" ConfigName="Release"/>
       <Project Name="ExerciseDrafts" ConfigName="Release"/>
       <Project Name="ExerciseDraftsS06" ConfigName="Release"/>
+      <Project Name="PrimitiveTypes" ConfigName="Release"/>
+      <Project Name="SizeOfOperator" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
