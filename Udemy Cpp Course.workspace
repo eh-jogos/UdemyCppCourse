@@ -11,7 +11,8 @@
     <Project Name="ExerciseDraftsS06" Path="ExerciseDraftsS06/ExerciseDraftsS06.project" Active="No"/>
     <Project Name="PrimitiveTypes" Path="PrimitiveTypes/PrimitiveTypes.project" Active="No"/>
     <Project Name="SizeOfOperator" Path="SizeOfOperator/SizeOfOperator.project" Active="No"/>
-    <Project Name="Constants" Path="Constants/Constants.project" Active="Yes"/>
+    <Project Name="Constants" Path="Constants/Constants.project" Active="No"/>
+    <Project Name="Section06Challenge" Path="Section06Challenge/Section06Challenge.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -25,6 +26,7 @@
       <Project Name="PrimitiveTypes" ConfigName="Debug"/>
       <Project Name="SizeOfOperator" ConfigName="Debug"/>
       <Project Name="Constants" ConfigName="Debug"/>
+      <Project Name="Section06Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -37,6 +39,7 @@
       <Project Name="PrimitiveTypes" ConfigName="Release"/>
       <Project Name="SizeOfOperator" ConfigName="Release"/>
       <Project Name="Constants" ConfigName="Release"/>
+      <Project Name="Section06Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

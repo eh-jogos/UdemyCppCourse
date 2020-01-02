@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Constants - Debug ]----------"
-	@cd "Constants" && "$(MAKE)" -f  "Constants.mk"
+	@echo "----------Building project:[ Section06Challenge - Debug ]----------"
+	@cd "Section06Challenge" && "$(MAKE)" -f  "Section06Challenge.mk"
 clean:
-	@echo "----------Cleaning project:[ Constants - Debug ]----------"
-	@cd "Constants" && "$(MAKE)" -f  "Constants.mk" clean
+	@echo "----------Cleaning project:[ Section06Challenge - Debug ]----------"
+	@cd "Section06Challenge" && "$(MAKE)" -f  "Section06Challenge.mk" clean
