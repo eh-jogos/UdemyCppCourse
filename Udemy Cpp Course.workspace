@@ -16,7 +16,8 @@
   </VirtualDirectory>
   <VirtualDirectory Name="Section7">
     <Project Name="Arrays" Path="Arrays/Arrays.project" Active="No"/>
-    <Project Name="Vectors" Path="Vectors/Vectors.project" Active="Yes"/>
+    <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
+    <Project Name="Section07Challenge" Path="Section07Challenge/Section07Challenge.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -33,6 +34,7 @@
       <Project Name="Section06Challenge" ConfigName="Debug"/>
       <Project Name="Arrays" ConfigName="Debug"/>
       <Project Name="Vectors" ConfigName="Debug"/>
+      <Project Name="Section07Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -48,6 +50,7 @@
       <Project Name="Section06Challenge" ConfigName="Release"/>
       <Project Name="Arrays" ConfigName="Release"/>
       <Project Name="Vectors" ConfigName="Release"/>
+      <Project Name="Section07Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
