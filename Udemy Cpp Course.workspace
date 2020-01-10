@@ -20,7 +20,9 @@
     <Project Name="Section07Challenge" Path="Section07Challenge/Section07Challenge.project" Active="No"/>
   </VirtualDirectory>
   <VirtualDirectory Name="Section8">
-    <Project Name="AssignmentOperator" Path="AssignmentOperator/AssignmentOperator.project" Active="Yes"/>
+    <Project Name="AssignmentOperator" Path="AssignmentOperator/AssignmentOperator.project" Active="No"/>
+    <Project Name="ArithmeticOperators" Path="ArithmeticOperators/ArithmeticOperators.project" Active="No"/>
+    <Project Name="Euros" Path="Euros/Euros.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -39,6 +41,8 @@
       <Project Name="Vectors" ConfigName="Debug"/>
       <Project Name="Section07Challenge" ConfigName="Debug"/>
       <Project Name="AssignmentOperator" ConfigName="Debug"/>
+      <Project Name="ArithmeticOperators" ConfigName="Debug"/>
+      <Project Name="Euros" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -56,6 +60,8 @@
       <Project Name="Vectors" ConfigName="Release"/>
       <Project Name="Section07Challenge" ConfigName="Release"/>
       <Project Name="AssignmentOperator" ConfigName="Release"/>
+      <Project Name="ArithmeticOperators" ConfigName="Release"/>
+      <Project Name="Euros" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
