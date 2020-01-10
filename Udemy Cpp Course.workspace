@@ -23,7 +23,8 @@
     <Project Name="AssignmentOperator" Path="AssignmentOperator/AssignmentOperator.project" Active="No"/>
     <Project Name="ArithmeticOperators" Path="ArithmeticOperators/ArithmeticOperators.project" Active="No"/>
     <Project Name="Euros" Path="Euros/Euros.project" Active="No"/>
-    <Project Name="IncrementDecrementOperators" Path="IncrementDecrementOperators/IncrementDecrementOperators.project" Active="Yes"/>
+    <Project Name="IncrementDecrementOperators" Path="IncrementDecrementOperators/IncrementDecrementOperators.project" Active="No"/>
+    <Project Name="MixedExpressions" Path="MixedExpressions/MixedExpressions.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -45,6 +46,7 @@
       <Project Name="ArithmeticOperators" ConfigName="Debug"/>
       <Project Name="Euros" ConfigName="Debug"/>
       <Project Name="IncrementDecrementOperators" ConfigName="Debug"/>
+      <Project Name="MixedExpressions" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -65,6 +67,7 @@
       <Project Name="ArithmeticOperators" ConfigName="Release"/>
       <Project Name="Euros" ConfigName="Release"/>
       <Project Name="IncrementDecrementOperators" ConfigName="Release"/>
+      <Project Name="MixedExpressions" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
