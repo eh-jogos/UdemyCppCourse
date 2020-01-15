@@ -15,6 +15,10 @@
   "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/AssignmentOperator",
   "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/AssignmentOperator/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/AssignmentOperator/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
+  "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/LogicalOperators/main.cpp",
+  "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/LogicalOperators",
+  "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/LogicalOperators/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/LogicalOperators/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
   "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/IncrementDecrementOperators/main.cpp",
   "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/IncrementDecrementOperators",
   "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/IncrementDecrementOperators/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/IncrementDecrementOperators/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
