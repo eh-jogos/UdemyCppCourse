@@ -28,6 +28,8 @@
     <Project Name="EqualityOperators" Path="EqualityOperators/EqualityOperators.project" Active="No"/>
     <Project Name="RelationalOperators" Path="RelationalOperators/RelationalOperators.project" Active="No"/>
     <Project Name="LogicalOperators" Path="LogicalOperators/LogicalOperators.project" Active="Yes"/>
+    <Project Name="Section8Challenge" Path="Section8Challenge/Section8Challenge.project" Active="No"/>
+    <Project Name="Section08Challenge" Path="Section08Challenge/Section08Challenge.project" Active="No"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -53,6 +55,7 @@
       <Project Name="EqualityOperators" ConfigName="Debug"/>
       <Project Name="RelationalOperators" ConfigName="Debug"/>
       <Project Name="LogicalOperators" ConfigName="Debug"/>
+      <Project Name="Section08Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -77,6 +80,7 @@
       <Project Name="EqualityOperators" ConfigName="Release"/>
       <Project Name="RelationalOperators" ConfigName="Release"/>
       <Project Name="LogicalOperators" ConfigName="Release"/>
+      <Project Name="Section08Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
