@@ -31,7 +31,9 @@
     <Project Name="Section08Challenge" Path="Section08Challenge/Section08Challenge.project" Active="No"/>
   </VirtualDirectory>
   <VirtualDirectory Name="Section9">
-    <Project Name="IfStatements" Path="IfStatements/IfStatements.project" Active="Yes"/>
+    <Project Name="IfStatements" Path="IfStatements/IfStatements.project" Active="No"/>
+    <Project Name="IfElseStatement" Path="IfElseStatement/IfElseStatement.project" Active="No"/>
+    <Project Name="Grades" Path="Grades/Grades.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -59,6 +61,8 @@
       <Project Name="LogicalOperators" ConfigName="Debug"/>
       <Project Name="Section08Challenge" ConfigName="Debug"/>
       <Project Name="IfStatements" ConfigName="Debug"/>
+      <Project Name="IfElseStatement" ConfigName="Debug"/>
+      <Project Name="Grades" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -85,6 +89,8 @@
       <Project Name="LogicalOperators" ConfigName="Release"/>
       <Project Name="Section08Challenge" ConfigName="Release"/>
       <Project Name="IfStatements" ConfigName="Release"/>
+      <Project Name="IfElseStatement" ConfigName="Release"/>
+      <Project Name="Grades" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
