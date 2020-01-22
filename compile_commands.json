@@ -1,4 +1,8 @@
 [{
+  "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/SwitchEnum/main.cpp",
+  "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/SwitchEnum",
+  "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/SwitchEnum/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/SwitchEnum/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
   "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Section07Challenge/main.cpp",
   "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Section07Challenge",
   "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Section07Challenge/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Section07Challenge/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
@@ -6,6 +10,10 @@
   "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/BasicIO/main.cpp",
   "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/BasicIO",
   "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/BasicIO/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/BasicIO/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Switch/main.cpp",
+  "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Switch",
+  "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Switch/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Switch/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
   "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/IfElseStatement/main.cpp",
   "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/IfElseStatement",
