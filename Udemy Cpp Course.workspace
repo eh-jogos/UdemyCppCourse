@@ -33,7 +33,8 @@
   <VirtualDirectory Name="Section9">
     <Project Name="IfStatements" Path="IfStatements/IfStatements.project" Active="No"/>
     <Project Name="IfElseStatement" Path="IfElseStatement/IfElseStatement.project" Active="No"/>
-    <Project Name="Grades" Path="Grades/Grades.project" Active="Yes"/>
+    <Project Name="Grades" Path="Grades/Grades.project" Active="No"/>
+    <Project Name="Shipping" Path="Shipping/Shipping.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -63,6 +64,7 @@
       <Project Name="IfStatements" ConfigName="Debug"/>
       <Project Name="IfElseStatement" ConfigName="Debug"/>
       <Project Name="Grades" ConfigName="Debug"/>
+      <Project Name="Shipping" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -91,6 +93,7 @@
       <Project Name="IfStatements" ConfigName="Release"/>
       <Project Name="IfElseStatement" ConfigName="Release"/>
       <Project Name="Grades" ConfigName="Release"/>
+      <Project Name="Shipping" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
