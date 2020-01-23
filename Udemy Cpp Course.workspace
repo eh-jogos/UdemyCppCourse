@@ -36,7 +36,8 @@
     <Project Name="Grades" Path="Grades/Grades.project" Active="No"/>
     <Project Name="Shipping" Path="Shipping/Shipping.project" Active="No"/>
     <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
-    <Project Name="SwitchEnum" Path="SwitchEnum/SwitchEnum.project" Active="Yes"/>
+    <Project Name="SwitchEnum" Path="SwitchEnum/SwitchEnum.project" Active="No"/>
+    <Project Name="ConditionalOperator" Path="ConditionalOperator/ConditionalOperator.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -69,6 +70,7 @@
       <Project Name="Shipping" ConfigName="Debug"/>
       <Project Name="Switch" ConfigName="Debug"/>
       <Project Name="SwitchEnum" ConfigName="Debug"/>
+      <Project Name="ConditionalOperator" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -100,6 +102,7 @@
       <Project Name="Shipping" ConfigName="Release"/>
       <Project Name="Switch" ConfigName="Release"/>
       <Project Name="SwitchEnum" ConfigName="Release"/>
+      <Project Name="ConditionalOperator" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
