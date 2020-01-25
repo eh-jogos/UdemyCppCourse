@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
@@ -48,7 +49,7 @@ int main(){
 	}
 	
 	
-	cout << "\n###### My nicely spaced table << endl;
+	cout << "\n###### My nicely spaced table" << endl;
 	for (int i{1}; i <= 100; ++i){
 		if (i < 10)
 			cout << "00" << i;
@@ -58,6 +59,12 @@ int main(){
 			cout << i;
 		
 		cout << ((i % 10 == 0) ? "\n" : " ");
+	}
+	
+	cout << "\n###### Loop through vectors" << endl;
+	vector<int> nums {10,20,30,40,50};
+	for (unsigned i{0}; i<nums.size(); ++i){
+		cout << nums[i] << endl;
 	}
 	
 	
