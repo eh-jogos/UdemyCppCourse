@@ -38,7 +38,9 @@
     <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
     <Project Name="SwitchEnum" Path="SwitchEnum/SwitchEnum.project" Active="No"/>
     <Project Name="ConditionalOperator" Path="ConditionalOperator/ConditionalOperator.project" Active="No"/>
-    <Project Name="ForLoops" Path="ForLoops/ForLoops.project" Active="Yes"/>
+    <Project Name="ForLoops" Path="ForLoops/ForLoops.project" Active="No"/>
+    <Project Name="RangeBasedForLoop" Path="RangeBasedForLoop/RangeBasedForLoop.project" Active="No"/>
+    <Project Name="WhileLoop" Path="WhileLoop/WhileLoop.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -73,6 +75,8 @@
       <Project Name="SwitchEnum" ConfigName="Debug"/>
       <Project Name="ConditionalOperator" ConfigName="Debug"/>
       <Project Name="ForLoops" ConfigName="Debug"/>
+      <Project Name="RangeBasedForLoop" ConfigName="Debug"/>
+      <Project Name="WhileLoop" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -106,6 +110,8 @@
       <Project Name="SwitchEnum" ConfigName="Release"/>
       <Project Name="ConditionalOperator" ConfigName="Release"/>
       <Project Name="ForLoops" ConfigName="Release"/>
+      <Project Name="RangeBasedForLoop" ConfigName="Release"/>
+      <Project Name="WhileLoop" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
