@@ -40,7 +40,8 @@
     <Project Name="ConditionalOperator" Path="ConditionalOperator/ConditionalOperator.project" Active="No"/>
     <Project Name="ForLoops" Path="ForLoops/ForLoops.project" Active="No"/>
     <Project Name="RangeBasedForLoop" Path="RangeBasedForLoop/RangeBasedForLoop.project" Active="No"/>
-    <Project Name="WhileLoop" Path="WhileLoop/WhileLoop.project" Active="Yes"/>
+    <Project Name="WhileLoop" Path="WhileLoop/WhileLoop.project" Active="No"/>
+    <Project Name="DoWhile" Path="DoWhile/DoWhile.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -77,6 +78,7 @@
       <Project Name="ForLoops" ConfigName="Debug"/>
       <Project Name="RangeBasedForLoop" ConfigName="Debug"/>
       <Project Name="WhileLoop" ConfigName="Debug"/>
+      <Project Name="DoWhile" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -112,6 +114,7 @@
       <Project Name="ForLoops" ConfigName="Release"/>
       <Project Name="RangeBasedForLoop" ConfigName="Release"/>
       <Project Name="WhileLoop" ConfigName="Release"/>
+      <Project Name="DoWhile" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
