@@ -69,7 +69,7 @@ Good luck!
  * Do placeholders for each input, test the flow is alright
  * Start filling out one input option at a time, I guess I'd just do them in order
  * * * Print number - check for array size, and either print the error message or the vector
- * * * Add number - no checks needed on this one, just push_back() and print message
+ * * * Add number - no checks needed on this one, just prompt for a number then push_back() and print message
  * * * Average - have two variables, one for sum, one for count, first check the size of the vector and print error if empty
  * * * * else do a ranged for incrementing each in it's respective
  * * * * way, then after the loop calculate the average with sum/count
@@ -87,8 +87,70 @@ Good luck!
 using namespace std;
 
 int main() {
-    
-    cout << "Hello world" << endl;
-    return 0;
+	
+	char user_input {};
+	vector<int> list {};
+	
+	do {
+		
+		cout << endl;
+		cout << "P - Print numbers" << endl;
+		cout << "A - Add a number" << endl;
+		cout << "M - Display mean of the numbers" << endl;
+		cout << "S - Display the smallest number" << endl;
+		cout << "L - Display the largest number" << endl;
+		cout << "Q - Quit" << endl;
+		
+		cout << "\nEnter your choice: ";
+		cin >> user_input;
+		
+		cout << endl;
+		
+		switch (user_input){
+			case 'p':
+			case 'P':
+				if (list.size() == 0){
+					cout << "[] - the list is empty" << endl;
+				} else {
+					cout << "[ ";
+					for (auto item : list){
+						cout << item << " ";
+					}
+					cout <<"]" << endl;
+				}
+				break;
+			case 'a':
+			case 'A':
+			{
+				int to_add {};
+				cout << "Enter an integer: ";
+				cin >> to_add;
+				list.push_back(to_add);
+				cout << to_add << " added." << endl;
+				break;
+			}
+			case 'm':
+			case 'M':
+				cout << "You chose M" << endl;
+				break;
+			case 's':
+			case 'S':
+				cout << "You chose S" << endl;
+				break;
+			case 'l':
+			case 'L':
+				cout << "You chose L" << endl;
+				break;
+			case 'q':
+			case 'Q':
+				cout << "Thank you for using this program! Bye-bye!" << endl;
+				break;
+			default:
+				cout << "I can't understand what you're saying, please try again." << endl;
+		}
+		
+	} while (user_input != 'q' && user_input != 'Q');
+	
+	return 0;
 }
 

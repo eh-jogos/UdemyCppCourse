@@ -43,8 +43,8 @@
     <Project Name="WhileLoop" Path="WhileLoop/WhileLoop.project" Active="No"/>
     <Project Name="DoWhile" Path="DoWhile/DoWhile.project" Active="No"/>
     <Project Name="MultiplicationTable" Path="MultiplicationTable/MultiplicationTable.project" Active="No"/>
-    <Project Name="Histogram" Path="Histogram/Histogram.project" Active="Yes"/>
-    <Project Name="Section09Challenge" Path="Section09Challenge/Section09Challenge.project"/>
+    <Project Name="Histogram" Path="Histogram/Histogram.project" Active="No"/>
+    <Project Name="Section09Challenge" Path="Section09Challenge/Section09Challenge.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
