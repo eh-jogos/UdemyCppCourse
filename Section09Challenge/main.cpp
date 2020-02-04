@@ -92,7 +92,6 @@ int main() {
 	vector<int> list {};
 	
 	do {
-		
 		cout << endl;
 		cout << "P - Print numbers" << endl;
 		cout << "A - Add a number" << endl;
@@ -131,15 +130,46 @@ int main() {
 			}
 			case 'm':
 			case 'M':
-				cout << "You chose M" << endl;
+				if (list.size() == 0){
+					cout << "Unable to calculate the mean - no data" << endl;
+				} else {
+					int sum {0};
+					int count {0};
+					
+					for (auto number : list){
+						sum += number;
+						count++;
+					}
+					double average = sum / static_cast<double>(count);
+					
+					cout << "The mean is: " << average << endl;
+				}
 				break;
 			case 's':
 			case 'S':
-				cout << "You chose S" << endl;
+				if (list.size() == 0){
+					cout << "Unable to determine the smallest number - no data" << endl;
+				} else {
+					int min {list.at(0)};
+					
+					for (unsigned i = 1; i < list.size(); ++i)
+						min = (list.at(i) < min) ? list.at(i) : min;
+					
+					cout << "The smallest number is: " << min << endl;
+				}
 				break;
 			case 'l':
 			case 'L':
-				cout << "You chose L" << endl;
+				if (list.size() == 0){
+					cout << "Unable to determine the largest number - no data" << endl;
+				} else {
+					int max {list.at(0)};
+					
+					for (unsigned i = 1; i < list.size(); ++i)
+						max = (list.at(i) > max) ? list.at(i) : max;
+					
+					cout << "The largest number is: " << max << endl;
+				}
 				break;
 			case 'q':
 			case 'Q':
