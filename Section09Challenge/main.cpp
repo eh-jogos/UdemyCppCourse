@@ -134,13 +134,10 @@ int main() {
 					cout << "Unable to calculate the mean - no data" << endl;
 				} else {
 					int sum {0};
-					int count {0};
-					
 					for (auto number : list){
 						sum += number;
-						count++;
 					}
-					double average = sum / static_cast<double>(count);
+					double average = static_cast<double>(sum) / list.size();
 					
 					cout << "The mean is: " << average << endl;
 				}
