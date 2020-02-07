@@ -1,50 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Udemy Cpp Course" Database="" Version="10.0.0">
-  <VirtualDirectory Name="Section4">
+  <VirtualDirectory Name="Section10">
+    <Project Name="CStyleStrings" Path="CStyleStrings/CStyleStrings.project" Active="Yes"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section04">
     <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
   </VirtualDirectory>
-  <VirtualDirectory Name="Section5">
+  <VirtualDirectory Name="Section05">
     <Project Name="BasicIO" Path="BasicIO/BasicIO.project" Active="No"/>
-    <Project Name="Exercise1" Path="Exercise1/Exercise1.project" Active="No"/>
+    <Project Name="ExerciseDrafts" Path="ExerciseDrafts/ExerciseDrafts.project" Active="No"/>
   </VirtualDirectory>
-  <VirtualDirectory Name="Section6">
+  <VirtualDirectory Name="Section06">
+    <Project Name="Constants" Path="Constants/Constants.project" Active="No"/>
     <Project Name="ExerciseDraftsS06" Path="ExerciseDraftsS06/ExerciseDraftsS06.project" Active="No"/>
     <Project Name="PrimitiveTypes" Path="PrimitiveTypes/PrimitiveTypes.project" Active="No"/>
-    <Project Name="SizeOfOperator" Path="SizeOfOperator/SizeOfOperator.project" Active="No"/>
-    <Project Name="Constants" Path="Constants/Constants.project" Active="No"/>
     <Project Name="Section06Challenge" Path="Section06Challenge/Section06Challenge.project" Active="No"/>
+    <Project Name="SizeOfOperator" Path="SizeOfOperator/SizeOfOperator.project" Active="No"/>
   </VirtualDirectory>
-  <VirtualDirectory Name="Section7">
+  <VirtualDirectory Name="Section07">
     <Project Name="Arrays" Path="Arrays/Arrays.project" Active="No"/>
-    <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
     <Project Name="Section07Challenge" Path="Section07Challenge/Section07Challenge.project" Active="No"/>
+    <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
   </VirtualDirectory>
-  <VirtualDirectory Name="Section8">
-    <Project Name="AssignmentOperator" Path="AssignmentOperator/AssignmentOperator.project" Active="No"/>
+  <VirtualDirectory Name="Section08">
     <Project Name="ArithmeticOperators" Path="ArithmeticOperators/ArithmeticOperators.project" Active="No"/>
+    <Project Name="AssignmentOperator" Path="AssignmentOperator/AssignmentOperator.project" Active="No"/>
+    <Project Name="EqualityOperators" Path="EqualityOperators/EqualityOperators.project" Active="No"/>
     <Project Name="Euros" Path="Euros/Euros.project" Active="No"/>
     <Project Name="IncrementDecrementOperators" Path="IncrementDecrementOperators/IncrementDecrementOperators.project" Active="No"/>
-    <Project Name="MixedExpressions" Path="MixedExpressions/MixedExpressions.project" Active="No"/>
-    <Project Name="EqualityOperators" Path="EqualityOperators/EqualityOperators.project" Active="No"/>
-    <Project Name="RelationalOperators" Path="RelationalOperators/RelationalOperators.project" Active="No"/>
     <Project Name="LogicalOperators" Path="LogicalOperators/LogicalOperators.project" Active="No"/>
+    <Project Name="MixedExpressions" Path="MixedExpressions/MixedExpressions.project" Active="No"/>
+    <Project Name="RelationalOperators" Path="RelationalOperators/RelationalOperators.project" Active="No"/>
     <Project Name="Section08Challenge" Path="Section08Challenge/Section08Challenge.project" Active="No"/>
   </VirtualDirectory>
-  <VirtualDirectory Name="Section9">
-    <Project Name="IfStatements" Path="IfStatements/IfStatements.project" Active="No"/>
-    <Project Name="IfElseStatement" Path="IfElseStatement/IfElseStatement.project" Active="No"/>
+  <VirtualDirectory Name="Section09">
+    <Project Name="ConditionalOperator" Path="ConditionalOperator/ConditionalOperator.project" Active="No"/>
+    <Project Name="DoWhile" Path="DoWhile/DoWhile.project" Active="No"/>
+    <Project Name="ForLoops" Path="ForLoops/ForLoops.project" Active="No"/>
     <Project Name="Grades" Path="Grades/Grades.project" Active="No"/>
+    <Project Name="Histogram" Path="Histogram/Histogram.project" Active="No"/>
+    <Project Name="IfElseStatement" Path="IfElseStatement/IfElseStatement.project" Active="No"/>
+    <Project Name="IfStatements" Path="IfStatements/IfStatements.project" Active="No"/>
+    <Project Name="MultiplicationTable" Path="MultiplicationTable/MultiplicationTable.project" Active="No"/>
+    <Project Name="RangeBasedForLoop" Path="RangeBasedForLoop/RangeBasedForLoop.project" Active="No"/>
+    <Project Name="Section09Challenge" Path="Section09Challenge/Section09Challenge.project" Active="No"/>
     <Project Name="Shipping" Path="Shipping/Shipping.project" Active="No"/>
     <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
     <Project Name="SwitchEnum" Path="SwitchEnum/SwitchEnum.project" Active="No"/>
-    <Project Name="ConditionalOperator" Path="ConditionalOperator/ConditionalOperator.project" Active="No"/>
-    <Project Name="ForLoops" Path="ForLoops/ForLoops.project" Active="No"/>
-    <Project Name="RangeBasedForLoop" Path="RangeBasedForLoop/RangeBasedForLoop.project" Active="No"/>
     <Project Name="WhileLoop" Path="WhileLoop/WhileLoop.project" Active="No"/>
-    <Project Name="DoWhile" Path="DoWhile/DoWhile.project" Active="No"/>
-    <Project Name="MultiplicationTable" Path="MultiplicationTable/MultiplicationTable.project" Active="No"/>
-    <Project Name="Histogram" Path="Histogram/Histogram.project" Active="No"/>
-    <Project Name="Section09Challenge" Path="Section09Challenge/Section09Challenge.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -85,6 +88,8 @@
       <Project Name="MultiplicationTable" ConfigName="Debug"/>
       <Project Name="Histogram" ConfigName="Debug"/>
       <Project Name="Section09Challenge" ConfigName="Debug"/>
+      <Project Name="ExerciseDrafts" ConfigName="Debug"/>
+      <Project Name="CStyleStrings" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -124,6 +129,8 @@
       <Project Name="MultiplicationTable" ConfigName="Release"/>
       <Project Name="Histogram" ConfigName="Release"/>
       <Project Name="Section09Challenge" ConfigName="Release"/>
+      <Project Name="ExerciseDrafts" ConfigName="Release"/>
+      <Project Name="CStyleStrings" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
