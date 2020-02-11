@@ -31,9 +31,9 @@
   "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/ForLoops",
   "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/ForLoops/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/ForLoops/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Section07Challenge/main.cpp",
-  "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Section07Challenge",
-  "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Section07Challenge/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Section07Challenge/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+  "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/DoWhile/main.cpp",
+  "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/DoWhile",
+  "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/DoWhile/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/DoWhile/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
   "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/BasicIO/main.cpp",
   "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/BasicIO",
@@ -67,13 +67,13 @@
   "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/LogicalOperators",
   "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/LogicalOperators/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/LogicalOperators/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/DoWhile/main.cpp",
-  "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/DoWhile",
-  "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/DoWhile/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/DoWhile/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
- }, {
   "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/ExerciseDraftsS06/main.cpp",
   "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/ExerciseDraftsS06",
   "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/ExerciseDraftsS06/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/ExerciseDraftsS06/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Constants/main.cpp",
+  "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Constants",
+  "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Constants/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Constants/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
   "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/IncrementDecrementOperators/main.cpp",
   "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/IncrementDecrementOperators",
@@ -87,9 +87,9 @@
   "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/ExerciseDrafts",
   "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/ExerciseDrafts/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/ExerciseDrafts/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -g  -O0  -Wall"
  }, {
-  "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Constants/main.cpp",
-  "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Constants",
-  "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Constants/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Constants/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+  "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Section07Challenge/main.cpp",
+  "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Section07Challenge",
+  "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Section07Challenge/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Section07Challenge/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
   "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Vectors/main.cpp",
   "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Vectors",
@@ -114,6 +114,10 @@
   "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/EqualityOperators/main.cpp",
   "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/EqualityOperators",
   "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/EqualityOperators/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/EqualityOperators/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/CppStrings/main.cpp",
+  "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/CppStrings",
+  "command": "clang  -c /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/CppStrings/main.cpp -o /mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/CppStrings/main.cpp.o  -I/usr/include/c++/9.2.0 -I/usr/include/c++/9.2.0/x86_64-pc-linux-gnu -I/usr/include/c++/9.2.0/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed -I/usr/include -I. -I.  -g  -O0  -Wall"
  }, {
   "file": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Section08Challenge/main.cpp",
   "directory": "/mnt/24847D5F847D3500/Daniel/ProjetosCode/UdemyCppCourse/CppCourse/Section08Challenge",

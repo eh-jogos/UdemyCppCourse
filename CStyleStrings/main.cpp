@@ -56,7 +56,7 @@ int main()
 	if(strcmp(temp, full_name)==0)
 		cout << temp << " and " << full_name << " are the same" << endl;
 	else
-		cout << temp << " and " << full_name << " are different" << endl;
+off		cout << temp << " and " << full_name << " are different" << endl;
 	
 	cout << "-------------------------------" << endl;
 	cout << "Result of comparing " << temp << " and " << full_name << ": " << strcmp(temp, full_name) << endl; 

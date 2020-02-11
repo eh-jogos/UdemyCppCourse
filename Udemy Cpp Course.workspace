@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Udemy Cpp Course" Database="" Version="10.0.0">
   <VirtualDirectory Name="Section10">
-    <Project Name="CStyleStrings" Path="CStyleStrings/CStyleStrings.project" Active="Yes"/>
+    <Project Name="CStyleStrings" Path="CStyleStrings/CStyleStrings.project" Active="No"/>
+    <Project Name="CppStrings" Path="CppStrings/CppStrings.project" Active="Yes"/>
   </VirtualDirectory>
   <VirtualDirectory Name="Section04">
     <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
@@ -90,6 +91,7 @@
       <Project Name="Section09Challenge" ConfigName="Debug"/>
       <Project Name="ExerciseDrafts" ConfigName="Debug"/>
       <Project Name="CStyleStrings" ConfigName="Debug"/>
+      <Project Name="CppStrings" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -131,6 +133,7 @@
       <Project Name="Section09Challenge" ConfigName="Release"/>
       <Project Name="ExerciseDrafts" ConfigName="Release"/>
       <Project Name="CStyleStrings" ConfigName="Release"/>
+      <Project Name="CppStrings" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
