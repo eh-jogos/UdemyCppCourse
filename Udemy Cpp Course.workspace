@@ -63,7 +63,10 @@
     <Project Name="ArraysAndFunctions" Path="ArraysAndFunctions/ArraysAndFunctions.project" Active="No"/>
     <Project Name="PassByReference" Path="PassByReference/PassByReference.project" Active="No"/>
     <Project Name="ScopeExample" Path="ScopeExample/ScopeExample.project" Active="No"/>
-    <Project Name="HowFunctionCallsWork" Path="HowFunctionCallsWork/HowFunctionCallsWork.project" Active="Yes"/>
+    <Project Name="HowFunctionCallsWork" Path="HowFunctionCallsWork/HowFunctionCallsWork.project" Active="No"/>
+    <Project Name="Fibonacci" Path="Section11/Fibonacci/Fibonacci.project" Active="No"/>
+    <Project Name="Factorial" Path="Section11/Factorial/Factorial.project" Active="No"/>
+    <Project Name="Section11Challeng" Path="Section11/Section11Challeng/Section11Challeng.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -120,6 +123,9 @@
       <Project Name="PassByReference" ConfigName="Debug"/>
       <Project Name="ScopeExample" ConfigName="Debug"/>
       <Project Name="HowFunctionCallsWork" ConfigName="Debug"/>
+      <Project Name="Fibonacci" ConfigName="Debug"/>
+      <Project Name="Factorial" ConfigName="Debug"/>
+      <Project Name="Section11Challeng" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -175,6 +181,9 @@
       <Project Name="PassByReference" ConfigName="Release"/>
       <Project Name="ScopeExample" ConfigName="Release"/>
       <Project Name="HowFunctionCallsWork" ConfigName="Release"/>
+      <Project Name="Fibonacci" ConfigName="Release"/>
+      <Project Name="Factorial" ConfigName="Release"/>
+      <Project Name="Section11Challeng" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
