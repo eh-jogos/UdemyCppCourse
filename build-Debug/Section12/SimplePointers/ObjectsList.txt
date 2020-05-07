@@ -1,0 +1,1 @@
+../../build-Debug/Section12/SimplePointers/main.cpp.o

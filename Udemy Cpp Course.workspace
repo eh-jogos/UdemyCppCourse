@@ -66,7 +66,14 @@
     <Project Name="HowFunctionCallsWork" Path="HowFunctionCallsWork/HowFunctionCallsWork.project" Active="No"/>
     <Project Name="Fibonacci" Path="Section11/Fibonacci/Fibonacci.project" Active="No"/>
     <Project Name="Factorial" Path="Section11/Factorial/Factorial.project" Active="No"/>
-    <Project Name="Section11Challeng" Path="Section11/Section11Challeng/Section11Challeng.project" Active="Yes"/>
+    <Project Name="Section11Challeng" Path="Section11/Section11Challeng/Section11Challeng.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section12">
+    <Project Name="SimplePointers" Path="Section12/SimplePointers/SimplePointers.project" Active="No"/>
+    <Project Name="Dereference" Path="Section12/Dereference/Dereference.project" Active="No"/>
+    <Project Name="DynamicMemory" Path="Section12/DynamicMemory/DynamicMemory.project" Active="No"/>
+    <Project Name="ArraysAndPointers" Path="Section12/ArraysAndPointers/ArraysAndPointers.project" Active="No"/>
+    <Project Name="PointerArithmetic" Path="Section12/PointerArithmetic/PointerArithmetic.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -126,6 +133,11 @@
       <Project Name="Fibonacci" ConfigName="Debug"/>
       <Project Name="Factorial" ConfigName="Debug"/>
       <Project Name="Section11Challeng" ConfigName="Debug"/>
+      <Project Name="SimplePointers" ConfigName="Debug"/>
+      <Project Name="Dereference" ConfigName="Debug"/>
+      <Project Name="DynamicMemory" ConfigName="Debug"/>
+      <Project Name="ArraysAndPointers" ConfigName="Debug"/>
+      <Project Name="PointerArithmetic" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -184,6 +196,11 @@
       <Project Name="Fibonacci" ConfigName="Release"/>
       <Project Name="Factorial" ConfigName="Release"/>
       <Project Name="Section11Challeng" ConfigName="Release"/>
+      <Project Name="SimplePointers" ConfigName="Release"/>
+      <Project Name="Dereference" ConfigName="Release"/>
+      <Project Name="DynamicMemory" ConfigName="Release"/>
+      <Project Name="ArraysAndPointers" ConfigName="Release"/>
+      <Project Name="PointerArithmetic" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
