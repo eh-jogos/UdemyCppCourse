@@ -73,7 +73,11 @@
     <Project Name="Dereference" Path="Section12/Dereference/Dereference.project" Active="No"/>
     <Project Name="DynamicMemory" Path="Section12/DynamicMemory/DynamicMemory.project" Active="No"/>
     <Project Name="ArraysAndPointers" Path="Section12/ArraysAndPointers/ArraysAndPointers.project" Active="No"/>
-    <Project Name="PointerArithmetic" Path="Section12/PointerArithmetic/PointerArithmetic.project" Active="Yes"/>
+    <Project Name="PointerArithmetic" Path="Section12/PointerArithmetic/PointerArithmetic.project" Active="No"/>
+    <Project Name="PassingPointers1" Path="Section12/PassingPointers1/PassingPointers1.project" Active="No"/>
+    <Project Name="PassingPointers2" Path="Section12/PassingPointers2/PassingPointers2.project" Active="No"/>
+    <Project Name="PassingPointers3" Path="Section12/PassingPointers3/PassingPointers3/PassingPointers3.project" Active="No"/>
+    <Project Name="ReturnPointer" Path="Section12/ReturnPointer/ReturnPointer/ReturnPointer.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -138,6 +142,10 @@
       <Project Name="DynamicMemory" ConfigName="Debug"/>
       <Project Name="ArraysAndPointers" ConfigName="Debug"/>
       <Project Name="PointerArithmetic" ConfigName="Debug"/>
+      <Project Name="PassingPointers1" ConfigName="Debug"/>
+      <Project Name="PassingPointers2" ConfigName="Debug"/>
+      <Project Name="PassingPointers3" ConfigName="Debug"/>
+      <Project Name="ReturnPointer" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -201,6 +209,10 @@
       <Project Name="DynamicMemory" ConfigName="Release"/>
       <Project Name="ArraysAndPointers" ConfigName="Release"/>
       <Project Name="PointerArithmetic" ConfigName="Release"/>
+      <Project Name="PassingPointers1" ConfigName="Release"/>
+      <Project Name="PassingPointers2" ConfigName="Release"/>
+      <Project Name="PassingPointers3" ConfigName="Release"/>
+      <Project Name="ReturnPointer" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
