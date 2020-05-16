@@ -77,7 +77,13 @@
     <Project Name="PassingPointers1" Path="Section12/PassingPointers1/PassingPointers1.project" Active="No"/>
     <Project Name="PassingPointers2" Path="Section12/PassingPointers2/PassingPointers2.project" Active="No"/>
     <Project Name="PassingPointers3" Path="Section12/PassingPointers3/PassingPointers3/PassingPointers3.project" Active="No"/>
-    <Project Name="ReturnPointer" Path="Section12/ReturnPointer/ReturnPointer/ReturnPointer.project" Active="Yes"/>
+    <Project Name="ReturnPointer" Path="Section12/ReturnPointer/ReturnPointer/ReturnPointer.project" Active="No"/>
+    <Project Name="References" Path="Section12/References/References/References.project" Active="No"/>
+    <Project Name="Debugger" Path="Section12/Debugger/Debugger/Debugger.project" Active="No"/>
+    <Project Name="Section12Challenge" Path="Section12/Section12Challenge/Section12Challenge/Section12Challenge.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section13">
+    <Project Name="DeclareClassesAndObjects" Path="Section13/DeclareClassesAndObjects/DeclareClassesAndObjects/DeclareClassesAndObjects.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -146,6 +152,10 @@
       <Project Name="PassingPointers2" ConfigName="Debug"/>
       <Project Name="PassingPointers3" ConfigName="Debug"/>
       <Project Name="ReturnPointer" ConfigName="Debug"/>
+      <Project Name="References" ConfigName="Debug"/>
+      <Project Name="Debugger" ConfigName="Debug"/>
+      <Project Name="Section12Challenge" ConfigName="Debug"/>
+      <Project Name="DeclareClassesAndObjects" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -213,6 +223,10 @@
       <Project Name="PassingPointers2" ConfigName="Release"/>
       <Project Name="PassingPointers3" ConfigName="Release"/>
       <Project Name="ReturnPointer" ConfigName="Release"/>
+      <Project Name="References" ConfigName="Release"/>
+      <Project Name="Debugger" ConfigName="Release"/>
+      <Project Name="Section12Challenge" ConfigName="Release"/>
+      <Project Name="DeclareClassesAndObjects" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
