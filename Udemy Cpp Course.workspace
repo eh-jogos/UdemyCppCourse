@@ -83,7 +83,11 @@
     <Project Name="Section12Challenge" Path="Section12/Section12Challenge/Section12Challenge/Section12Challenge.project" Active="No"/>
   </VirtualDirectory>
   <VirtualDirectory Name="Section13">
-    <Project Name="DeclareClassesAndObjects" Path="Section13/DeclareClassesAndObjects/DeclareClassesAndObjects/DeclareClassesAndObjects.project" Active="Yes"/>
+    <Project Name="DeclareClassesAndObjects" Path="Section13/DeclareClassesAndObjects/DeclareClassesAndObjects/DeclareClassesAndObjects.project" Active="No"/>
+    <Project Name="AccessingClassMembers" Path="Section13/AccessingClassMembers/AccessingClassMembers/AccessingClassMembers.project" Active="No"/>
+    <Project Name="AccessModifiers" Path="Section13/AccessModifiers/AccessModifiers/AccessModifiers.project" Active="No"/>
+    <Project Name="ImplementingMethods" Path="Section13/ImplementingMethods/ImplementingMethods/ImplementingMethods.project" Active="No"/>
+    <Project Name="ImplementingMethods2" Path="Section13/ImplementingMethods2/ImplementingMethods2/ImplementingMethods2.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -156,6 +160,10 @@
       <Project Name="Debugger" ConfigName="Debug"/>
       <Project Name="Section12Challenge" ConfigName="Debug"/>
       <Project Name="DeclareClassesAndObjects" ConfigName="Debug"/>
+      <Project Name="AccessingClassMembers" ConfigName="Debug"/>
+      <Project Name="AccessModifiers" ConfigName="Debug"/>
+      <Project Name="ImplementingMethods" ConfigName="Debug"/>
+      <Project Name="ImplementingMethods2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -227,6 +235,10 @@
       <Project Name="Debugger" ConfigName="Release"/>
       <Project Name="Section12Challenge" ConfigName="Release"/>
       <Project Name="DeclareClassesAndObjects" ConfigName="Release"/>
+      <Project Name="AccessingClassMembers" ConfigName="Release"/>
+      <Project Name="AccessModifiers" ConfigName="Release"/>
+      <Project Name="ImplementingMethods" ConfigName="Release"/>
+      <Project Name="ImplementingMethods2" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
