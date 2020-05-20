@@ -87,7 +87,15 @@
     <Project Name="AccessingClassMembers" Path="Section13/AccessingClassMembers/AccessingClassMembers/AccessingClassMembers.project" Active="No"/>
     <Project Name="AccessModifiers" Path="Section13/AccessModifiers/AccessModifiers/AccessModifiers.project" Active="No"/>
     <Project Name="ImplementingMethods" Path="Section13/ImplementingMethods/ImplementingMethods/ImplementingMethods.project" Active="No"/>
-    <Project Name="ImplementingMethods2" Path="Section13/ImplementingMethods2/ImplementingMethods2/ImplementingMethods2.project" Active="Yes"/>
+    <Project Name="ImplementingMethods2" Path="Section13/ImplementingMethods2/ImplementingMethods2/ImplementingMethods2.project" Active="No"/>
+    <Project Name="ConstructorsAndDestructors" Path="Section13/ConstructorsAndDestructors/ConstructorsAndDestructors/ConstructorsAndDestructors.project" Active="No"/>
+    <Project Name="DefaultConstructor" Path="Section13/DefaultConstructor/DefaultConstructor/DefaultConstructor.project" Active="No"/>
+    <Project Name="ConstructorInitializationList" Path="ConstructorInitializationList/ConstructorInitializationList/ConstructorInitializationList.project" Active="No"/>
+    <Project Name="DelegatingConstructors" Path="Section13/DelegatingConstructors/DelegatingConstructors/DelegatingConstructors.project" Active="No"/>
+    <Project Name="DefaultConstructorParameters" Path="Section13/DefaultConstructorParameters/DefaultConstructorParameters/DefaultConstructorParameters.project" Active="No"/>
+    <Project Name="CopyConstructor" Path="Section13/CopyConstructor/CopyConstructor/CopyConstructor.project" Active="No"/>
+    <Project Name="ShallowCopy" Path="Section13/ShallowCopy/ShallowCopy/ShallowCopy.project" Active="No"/>
+    <Project Name="DeepCopy" Path="Section13/DeepCopy/DeepCopy/DeepCopy.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -164,6 +172,14 @@
       <Project Name="AccessModifiers" ConfigName="Debug"/>
       <Project Name="ImplementingMethods" ConfigName="Debug"/>
       <Project Name="ImplementingMethods2" ConfigName="Debug"/>
+      <Project Name="ConstructorsAndDestructors" ConfigName="Debug"/>
+      <Project Name="DefaultConstructor" ConfigName="Debug"/>
+      <Project Name="ConstructorInitializationList" ConfigName="Debug"/>
+      <Project Name="DelegatingConstructors" ConfigName="Debug"/>
+      <Project Name="DefaultConstructorParameters" ConfigName="Debug"/>
+      <Project Name="CopyConstructor" ConfigName="Debug"/>
+      <Project Name="ShallowCopy" ConfigName="Debug"/>
+      <Project Name="DeepCopy" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -239,6 +255,14 @@
       <Project Name="AccessModifiers" ConfigName="Release"/>
       <Project Name="ImplementingMethods" ConfigName="Release"/>
       <Project Name="ImplementingMethods2" ConfigName="Release"/>
+      <Project Name="ConstructorsAndDestructors" ConfigName="Release"/>
+      <Project Name="DefaultConstructor" ConfigName="Release"/>
+      <Project Name="ConstructorInitializationList" ConfigName="Release"/>
+      <Project Name="DelegatingConstructors" ConfigName="Release"/>
+      <Project Name="DefaultConstructorParameters" ConfigName="Release"/>
+      <Project Name="CopyConstructor" ConfigName="Release"/>
+      <Project Name="ShallowCopy" ConfigName="Release"/>
+      <Project Name="DeepCopy" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
