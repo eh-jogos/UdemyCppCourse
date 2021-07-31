@@ -1,1 +1,0 @@
-../../build-Debug/Section12/ArraysAndPointers/main.cpp.o

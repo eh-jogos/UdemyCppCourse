@@ -1,3 +1,8 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/c++,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=c++,visualstudiocode
+
+### C++ ###
 # Prerequisites
 *.d
 
@@ -31,17 +36,20 @@
 *.out
 *.app
 
-#CodeLite
-.codelite
-Debug
-Release
-Release_gcc_unicode
-DebugUnicode
-*.session
-*.tags
-*.pyc
-bin
-bin/ofMaker
-lib
-*.mk
-*.workspace.session
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# End of https://www.toptal.com/developers/gitignore/api/c++,visualstudiocode
