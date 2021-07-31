@@ -45,7 +45,7 @@
     <Project Name="IfElseStatement" Path="IfElseStatement/IfElseStatement.project" Active="No"/>
     <Project Name="IfStatements" Path="IfStatements/IfStatements.project" Active="No"/>
     <Project Name="MultiplicationTable" Path="MultiplicationTable/MultiplicationTable.project" Active="No"/>
-    <Project Name="RangeBasedForLoop" Path="RangeBasedForLoop/RangeBasedForLoop.project" Active="No"/>
+    <Project Name="RangeBasedForLoop" Path="RangeBasedForLoop/RangeBasedForLoop.project" Active="Yes"/>
     <Project Name="Section09Challenge" Path="Section09Challenge/Section09Challenge.project" Active="No"/>
     <Project Name="Shipping" Path="Shipping/Shipping.project" Active="No"/>
     <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
@@ -99,7 +99,12 @@
     <Project Name="MoveConstructor" Path="Section13/MoveConstructor/MoveConstructor/MoveConstructor.project" Active="No"/>
     <Project Name="ConstInClasses" Path="Section13/ConstInClasses/ConstInClasses/ConstInClasses.project" Active="No"/>
     <Project Name="StaticClassMembers" Path="Section13/StaticClassMembers/StaticClassMembers/StaticClassMembers.project" Active="No"/>
-    <Project Name="Section13Challenge" Path="Section13/Section13Challenge/Section13Challenge/Section13Challenge.project" Active="Yes"/>
+    <Project Name="Section13Challenge" Path="Section13/Section13Challenge/Section13Challenge/Section13Challenge.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section14">
+    <Project Name="Mystring-start" Path="Section14/Mystring-start/Mystring-start.project" Active="No"/>
+    <Project Name="MyString-copy-assignment" Path="Section14/MyString-copy-assignment/MyString-copy-assignment.project" Active="No"/>
+    <Project Name="MyString-move-assignment" Path="Section14/MyString-move-assignment/MyString-move-assignment.project" Active="No"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -188,6 +193,9 @@
       <Project Name="ConstInClasses" ConfigName="Debug"/>
       <Project Name="StaticClassMembers" ConfigName="Debug"/>
       <Project Name="Section13Challenge" ConfigName="Debug"/>
+      <Project Name="Mystring-start" ConfigName="Debug"/>
+      <Project Name="MyString-copy-assignment" ConfigName="Debug"/>
+      <Project Name="MyString-move-assignment" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -275,6 +283,9 @@
       <Project Name="ConstInClasses" ConfigName="Release"/>
       <Project Name="StaticClassMembers" ConfigName="Release"/>
       <Project Name="Section13Challenge" ConfigName="Release"/>
+      <Project Name="Mystring-start" ConfigName="Release"/>
+      <Project Name="MyString-copy-assignment" ConfigName="Release"/>
+      <Project Name="MyString-move-assignment" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

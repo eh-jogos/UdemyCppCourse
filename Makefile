@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ StaticClassMembers - Debug ]----------"
-	@cd "Section13/StaticClassMembers/StaticClassMembers" && "$(MAKE)" -f  "StaticClassMembers.mk"
+	@echo "----------Building project:[ MyString-move-assignment - Debug ]----------"
+	@cd "Section14/MyString-move-assignment" && "$(MAKE)" -f  "MyString-move-assignment.mk"
 clean:
-	@echo "----------Cleaning project:[ StaticClassMembers - Debug ]----------"
-	@cd "Section13/StaticClassMembers/StaticClassMembers" && "$(MAKE)" -f  "StaticClassMembers.mk" clean
+	@echo "----------Cleaning project:[ MyString-move-assignment - Debug ]----------"
+	@cd "Section14/MyString-move-assignment" && "$(MAKE)" -f  "MyString-move-assignment.mk" clean
